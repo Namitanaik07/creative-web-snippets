@@ -16,12 +16,15 @@ Each student contributes their own file, learns how to make a Pull Request, and 
 ---
 
 ## Folder Structure
-**creative-web-snippets/
+creative-web-snippets/
 │
 ├── html-snippets/ → Add your HTML code here
+
 ├── css-snippets/ → Add your CSS code here
+
 ├── js-snippets/ → Add your JS code here
-└── contributors/ → Add your name & GitHub link here**
+
+└── contributors/ → Add your name & GitHub link here
 
 
 ---
