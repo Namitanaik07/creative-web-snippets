@@ -1,1 +1,1 @@
-# Namita Naik \n Repo Creator 
+# Namita Naik - Repo Creator 
